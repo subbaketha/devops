@@ -1,0 +1,7 @@
+C:\Users\rh985e\source\repos\wise-test\wise-test\bin\Debug\wise-test.exe.config
+C:\Users\rh985e\source\repos\wise-test\wise-test\bin\Debug\wise-test.exe
+C:\Users\rh985e\source\repos\wise-test\wise-test\bin\Debug\wise-test.pdb
+C:\Users\rh985e\source\repos\wise-test\wise-test\obj\Debug\wise-test.csprojAssemblyReference.cache
+C:\Users\rh985e\source\repos\wise-test\wise-test\obj\Debug\wise-test.csproj.CoreCompileInputs.cache
+C:\Users\rh985e\source\repos\wise-test\wise-test\obj\Debug\wise-test.exe
+C:\Users\rh985e\source\repos\wise-test\wise-test\obj\Debug\wise-test.pdb
