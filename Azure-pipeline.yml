@@ -33,8 +33,10 @@ steps:
     aipBuild: 'DefaultBuild'
     aipPackageName: 'wise-test-$(Build.BuildNumber).msi'
     aipOutputFolder: '$(Build.ArtifactStagingDirectory)\MSI'
+    
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'drop'
-    publishLocation: 'Container'
+  condition: succeededOrFailed()
+
